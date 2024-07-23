@@ -13,13 +13,13 @@ body {
 .txt1 {
     color: white;
     position: absolute;
-    top: 10%;
+    top: 20%;
 }
 
 .txt2 {
     color: white;
     position: absolute;
-    bottom: 10%;
+    bottom: 20%;
 }
 
 .heart {
